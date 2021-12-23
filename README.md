@@ -20,6 +20,7 @@ If you are using the code/model/data provided here in a publication, please cons
 ### Requirements
 
 * [Jittor](https://github.com/Jittor/jittor)
+* [PyTorch](https://pytorch.org/) (just for loading the pretrained model)
 * numpy
 * opencv-python
 * scipy
